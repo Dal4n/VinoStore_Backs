@@ -139,6 +139,7 @@ C:\Users\MULTIMEDIA\source\repos\VinoStore\VinoStore\obj\Debug\net8.0\refint\Vin
 C:\Users\MULTIMEDIA\source\repos\VinoStore\VinoStore\obj\Debug\net8.0\VinoStore.pdb
 C:\Users\MULTIMEDIA\source\repos\VinoStore\VinoStore\obj\Debug\net8.0\VinoStore.genruntimeconfig.cache
 C:\Users\MULTIMEDIA\source\repos\VinoStore\VinoStore\obj\Debug\net8.0\ref\VinoStore.dll
+<<<<<<< HEAD
 E:\Mena_Examen\VinoStore_Backs\VinoStore\VinoStore\obj\Debug\net8.0\VinoStore.csproj.AssemblyReference.cache
 E:\Mena_Examen\VinoStore_Backs\VinoStore\VinoStore\obj\Debug\net8.0\VinoStore.GeneratedMSBuildEditorConfig.editorconfig
 E:\Mena_Examen\VinoStore_Backs\VinoStore\VinoStore\obj\Debug\net8.0\VinoStore.AssemblyInfoInputs.cache
@@ -423,3 +424,5 @@ E:\Mena_Examen\VinoStore_Backs\VinoStore\obj\Debug\net8.0\refint\VinoStore.dll
 E:\Mena_Examen\VinoStore_Backs\VinoStore\obj\Debug\net8.0\VinoStore.pdb
 E:\Mena_Examen\VinoStore_Backs\VinoStore\obj\Debug\net8.0\VinoStore.genruntimeconfig.cache
 E:\Mena_Examen\VinoStore_Backs\VinoStore\obj\Debug\net8.0\ref\VinoStore.dll
+=======
+>>>>>>> 37f5c83508c705926643895916e92465517a1994

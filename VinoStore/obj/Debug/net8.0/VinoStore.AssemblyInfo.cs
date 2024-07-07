@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VinoStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fb672f495f250bc76cd0291e1e55b7735f5f1bf")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+>>>>>>> 37f5c83508c705926643895916e92465517a1994
 [assembly: System.Reflection.AssemblyProductAttribute("VinoStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VinoStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

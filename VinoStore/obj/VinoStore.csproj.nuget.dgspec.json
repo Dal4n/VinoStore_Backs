@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "E:\\Mena_Examen\\VinoStore_Backs\\VinoStore\\VinoStore.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\MULTIMEDIA\\source\\repos\\VinoStore\\VinoStore\\VinoStore.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MULTIMEDIA\\source\\repos\\VinoStore\\VinoStore\\VinoStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MULTIMEDIA\\source\\repos\\VinoStore\\VinoStore\\VinoStore.csproj",
+        "projectName": "VinoStore",
+        "projectPath": "C:\\Users\\MULTIMEDIA\\source\\repos\\VinoStore\\VinoStore\\VinoStore.csproj",
+        "packagesPath": "C:\\Users\\MULTIMEDIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MULTIMEDIA\\source\\repos\\VinoStore\\VinoStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MULTIMEDIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 37f5c83508c705926643895916e92465517a1994
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
