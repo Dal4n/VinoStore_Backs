@@ -9,10 +9,10 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
 /* SE OBTIENE LA CADENA DE CONEXCION */
-var cadenaConexion = builder.Configuration.GetConnectionString("bd_tareas");
+var cadenaConexion = builder.Configuration.GetConnectionString("bd_VinoStore");
 
 /* CONFIGURAMOS SERVICIO PARA USAR SQL SERVER */
-builder.Services.AddDbContext<BdTareas902Context>(options =>
+builder.Services.AddDbContext<BDProductsContext>(options =>
 options.UseSqlServer(cadenaConexion));
 
 /* CONFIGURACION DEL CORS */
@@ -23,8 +23,6 @@ builder.Services.AddCors(options =>
         app.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
     });
 });
-
-
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -41,5 +39,6 @@ if (app.Environment.IsDevelopment())
 app.UseAuthorization();
 
 app.MapControllers();
+app.UseCors("NuevaPolitica");
 
 app.Run();
